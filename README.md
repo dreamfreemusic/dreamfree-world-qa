@@ -21,7 +21,6 @@ The starter uses a synthetic player in a separate browser session. Do not put cr
 
 The bundled web build and synthetic device bridges passed 20 browser regression checks. The application source tests passed 588 cases with one private-backup test skipped. Four simulated connector tests passed.
 
-The browser and connector checks used synthetic data. Real provider accounts, physical devices, iPhone and Android compilation, signing, permissions and camera sharing still require device testing. See [device connection details](DEVICE-CONNECTIONS.md).
+The browser and connector checks used synthetic data. Real provider accounts, physical devices, iPhone and Android compilation, signing, permissions and camera sharing still require device testing. See [device connection details](DEVICE-CONNECTIONS.md) and the [physical device acceptance matrix](DEVICE-ACCEPTANCE-MATRIX.md).
 
 This is a review branch. The repository’s default branch has not been changed.
-
